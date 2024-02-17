@@ -6,4 +6,5 @@ int main() {
 	int n;
 	cin >> n;
 	cout << "Ecco a te: " <<2*n << endl;
+	int b;
 }
